@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### About me 🙌
-I'm Tobias — a computer scientist by education, and an engineering leader by profession. I've spent most of my career in the automotive domain, leading international software teams across the full stack — from embedded to cloud to deep learning AI, most recently as R&D director at Bosch.
+I'm Tobias — a computer scientist by education, and an engineering leader by profession. I've spent most of my career in the automotive domain, leading international software teams across the full stack — from embedded to cloud to deep learning, most recently as R&D director at Bosch's automated driving division.
 
 Currently I'm building my own venture focused on tech consultancy and agentic AI in the medical space.
 
