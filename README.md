@@ -1,6 +1,3 @@
-## Hi there 👋
-Welcome to my GitHub profile.
-
 <!--
 **AceVentura0/AceVentura0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About me 🙌
+### Hi there 👋
 I'm Tobias — a computer scientist by education, an engineering leader by profession. I've spent most of my career in the automotive domain, leading international software teams across the full stack — from embedded to cloud to deep learning, most recently as R&D director at Bosch's automated driving division.
 
 Currently I'm building my own venture focused on tech consultancy and agentic AI in the medical space.
