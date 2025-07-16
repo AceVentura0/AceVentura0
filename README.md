@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-I'm a Germany-baased entrepreneur, computer scientist, engineering leader. I've spent most of my career in the automotive domain, leading international software teams across the full stack — from embedded to cloud to deep learning, most recently as R&D director at Bosch's automated driving division.
+I'm a Germany-based entrepreneur, computer scientist, engineering leader. I've spent most of my career in the automotive domain, leading international software teams across the full stack — from embedded to cloud to deep learning, most recently as R&D director at Bosch's automated driving division.
 
 Currently I'm building my own venture focused on tech consultancy and agentic AI in the medical space.
 
